@@ -284,7 +284,7 @@ module.exports = merge(common, {
 
 ## 참고 자료
 
-https://webpack.js.org/concepts/
-https://babeljs.io/docs/en/
-https://joshua1988.github.io/webpack-guide/guide.html
+https://webpack.js.org/concepts/ <br>
+https://babeljs.io/docs/en/ <br>
+https://joshua1988.github.io/webpack-guide/guide.html <br>
 https://yamoo9.gitbook.io/webpack/
